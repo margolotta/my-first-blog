@@ -25,7 +25,7 @@ SECRET_KEY = 'g*vlbufvdrl(kb%z9cd0@17qas1e8@ua8p=-pdzf(!q16lb7^9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['panecka.pythonanywhere.com']
 
 
 # Application definition
